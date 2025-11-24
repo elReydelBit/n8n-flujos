@@ -162,16 +162,6 @@ n8n-workflows/
 
 ---
 
-## 🤝 Contributing
-
-We love contributions! Here's how you can help:
-
-### Ways to Contribute
-- 🐛 **Report bugs** via [Issues](https://github.com/Zie619/n8n-workflows/issues)
-- 💡 **Suggest features** in [Discussions](https://github.com/Zie619/n8n-workflows/discussions)
-- 📝 **Improve documentation**
-- 🔧 **Submit workflow fixes**
-- ⭐ **Star the repository**
 
 ### Development Setup
 ```bash
@@ -232,9 +222,9 @@ If you find this project helpful, please consider:
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zie619)
-[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Zie619/n8n-workflows)
-[![Follow](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zie619)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![Star on GitHub](https://img.shields.io/badge/Star%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
+[![Follow](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 </div>
 
@@ -270,5 +260,6 @@ If you find this project helpful, please consider:
 ### ⭐ Star us on GitHub — it motivates us a lot!
 
 Made with ❤️ by [Zie619](https://github.com/Zie619) and [contributors](https://github.com/Zie619/n8n-workflows/graphs/contributors)
+
 
 </div>
