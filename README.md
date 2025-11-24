@@ -259,7 +259,5 @@ If you find this project helpful, please consider:
 
 ### ⭐ Star us on GitHub — it motivates us a lot!
 
-Made with ❤️ by [Zie619](https://github.com/Zie619) and [contributors](https://github.com/Zie619/n8n-workflows/graphs/contributors)
-
-
 </div>
+
